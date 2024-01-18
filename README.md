@@ -1,6 +1,6 @@
 # jpa02-daoyijiucsb
 
-Repo: https://github.com/ucsb-cs156-w24/jpa02-Daoyijiucsb
+Repo: https://github.com/ucsb-cs156-w24/jpa02-Daoyijiucsb  
 Deployed at: http://jpa02-daoyijiucsb.dokku-13.cs.ucsb.edu/
 
 # About this repo
